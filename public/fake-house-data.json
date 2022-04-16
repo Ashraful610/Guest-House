@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+         "name":"Awsome Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":3000,
+         "img" : "https://c8.alamy.com/comp/CC381T/view-of-the-mud-house-guest-house-in-the-faran-settlement-located-CC381T.jpg"
+    },
+    {
+        "id":2,
+         "name":"Natural Fill Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":5000,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaXrxvqtn7r9GtQtT0x9-k5lVmqjM6VkMwrg&usqp=CAU"
+    },
+    {
+        "id":3,
+         "name":"Sweet Swaming Pull Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":6000,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuespXaWLnRDUHmAgVVeQrdoUdvTNVCTTLg&usqp=CAU"
+    },
+    {
+        "id":4,
+         "name":"Garden Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":7000,
+         "img" : "https://images.adsttc.com/media/images/54bc/49b5/e58e/cee5/db00/01a5/large_jpg/Portada.jpg?1421625777"
+    },
+    {
+        "id":5,
+         "name":"Sweet Couple Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":10000,
+         "img" : "https://exp.cdn-hotels.com/hotels/58000000/57930000/57923500/57923475/8caa4779_z.jpg?impolicy=fcrop&w=500&h=333&q=medium"
+    },
+    {
+        "id":6,
+         "name":"Tourist Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":12000,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5HIaVJK8tMZZojvlj5nmHhV5BTstc0ar7w&usqp=CAU"
+    },
+    {
+        "id":7,
+         "name":"Party Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":15000,
+         "img" : "http://cdn.home-designing.com/wp-content/uploads/2014/09/modern-desert-home.jpg"
+    },
+    {
+        "id":8,
+         "name":"Better Mood Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":20000,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHB9930Iud6Qruiy6NX-pB68fuA5ppYvCFQQ&usqp=CAU"
+    },
+    {
+        "id":9,
+         "name":"Signle Man Guest House",
+         "description":"An apartment in the back of a large home designed to provide a place for visitors to stay is an example of a guesthouse",
+         "price":9000,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6G3wr6hrWnmVm1y4C8J7w8U6VL7SknE_MdQ&usqp=CAU"
+    }
+]
